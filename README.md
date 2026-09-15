@@ -465,8 +465,8 @@ Tools
 ### Spritesheet
 
 * :o2: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool 
-* :free: [Cut My Image](https://cutmyimage.com) - Browser image splitter and sprite sheet maker: cut a picture into a grid, or pack frames into a sheet and export PNG, JSON and CSS with @keyframes. Runs in the browser, nothing is uploaded.
 * :free: [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool
+* :free: [image-grid-kit](https://github.com/jessica7168295-ux/image-grid-kit) - Zero-dependency library and CLI that works out the pixel rectangles for splitting an image into a grid and turns them into CSS sprite-sheet animations.
 * :free: [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases 
 * :o2: [Libgdx Texture Packer](https://libgdx.com/wiki/) - Texture Packer built into Libgdx 
 * :free: [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas 
